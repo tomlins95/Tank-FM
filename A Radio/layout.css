@@ -1,0 +1,99 @@
+h1{color:black;}
+.warning{color:red;
+font-weight:normal;
+text-decoration:underline;
+}
+.floatleft{
+float:left;}
+.floatright{
+float:right;}
+
+body,
+html {
+margin:0;
+padding:0;
+color:#000;
+background:#a7a09a;
+}
+
+
+#radioplayer{
+border:10px blue groove;
+background-color: blue;
+border-radius:10px;
+margin:1px;
+padding:1px;
+color:White;
+float:right;
+width:175px;
+top:50px;
+}
+
+#twitterwidget{
+float:right;
+position:absolute;
+left:1150px;
+bottom:100px;
+}
+
+#logotext{
+float:left;
+font-family:verdana;
+}
+
+
+
+
+#upperCasePostCode
+{
+     text-transform:uppercase;
+}
+
+#banner {
+text-align:left;
+border:10px black;
+background-color:#FFFFFF;
+width:800px;
+border-radius: 10px;
+border-style:solid;
+margin:201px;
+margin-top: 1px;
+padding:50px;
+float:center;
+position:relative;
+bottom:120px;
+}
+
+#events {
+text-align:left;
+border:1px red;
+background-color:red;
+width:180px;
+margin-left:2px;
+padding:1px;
+}
+
+#centerinfo {
+text-align:left;
+border:10px black;
+background-color:#FFFFFF;
+width:800px;
+border-radius: 10px;
+border-style:solid;
+margin:201px;
+margin-top: 1px;
+padding:50px;
+padding-top:1px;
+float:center;
+top:1px;
+}
+
+#footer{
+border-radius: 10px ;
+background-color:#F7819F;
+margin:5px;
+padding:5px;
+clear:both;
+float:left;
+width:748px;}
+
