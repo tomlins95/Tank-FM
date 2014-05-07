@@ -1,0 +1,22 @@
+{
+  "name": "Tank-FM",
+  "version": "0.0.0",
+  "description": "Radio Player",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomlins95/Tank-FM.git"
+  },
+  "author": "Alexander Tomlins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomlins95/Tank-FM/issues"
+  },
+  "homepage": "https://github.com/tomlins95/Tank-FM",
+  "dependencies": {
+    "express": "latest"
+  }
+}
